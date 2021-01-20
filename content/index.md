@@ -103,5 +103,15 @@ seo:
       value: Stackbit Azimuth Theme
     - name: og:description
       value: The preview of the Azimuth theme
+    - name: og:image
+      value: images/hero.png
+    - name: twitter:card
+      value: summary_large_image
+    - name: twitter:title
+      value: Stackbit Azimuth Theme
+    - name: twitter:description
+      value: The preview of the Azimuth theme
+    - name: twitter:image
+      value: images/hero.png
 layout: landing
 ---
